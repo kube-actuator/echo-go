@@ -6,3 +6,4 @@ This is an http echo program.
 
 It will output the http request header/body as well as some response headers.
 
+一般用来做 HTTP 的测试服务。
